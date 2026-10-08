@@ -103,7 +103,7 @@ The dashboard provides a visual summary of the main business findings, including
 
 **[View Full Interactive Spreadsheet](https://docs.google.com/spreadsheets/d/1dZh0KcbKyEy0xgiPxhEyDWzz5lBB1LynkRPy4d0WGVk/edit?usp=sharing)**
 
-![Superstore Sales & Profitability Dashboard](screenshots/dashboard.jpg)
+![Superstore Sales & Profitability Dashboard](screenshots/dashboard.jpg.jpg)
 
 ### Dashboard Components
 
